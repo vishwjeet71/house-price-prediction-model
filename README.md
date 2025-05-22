@@ -6,7 +6,7 @@ This project uses **machine learning** to predict *house prices* based on import
 
 We clean the data, extract useful features, and create new ones to improve accuracy. Then, we train models like **Linear Regression** and **Random Forest Regressor** to estimate the **sale price** of homes more effectively.
 
-[**Machine learning Model**]()
+[**Machine learning Model**](https://house-price-prediction-model-b5xzmjn6vfhiovzn76mynz.streamlit.app/)
 
 
 
