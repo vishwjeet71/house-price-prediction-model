@@ -60,7 +60,7 @@ with st.expander("Information about Model", expanded=False):
     - Streamlit (Web App Interface)
     - Joblib (Model loading)
     
-    [Read more about the project on GitHub]()
+    [Read more about the project on GitHub](https://github.com/vishwjeet71/house-price-prediction-model)
     """)
 
 # Inputs Section
