@@ -61,14 +61,14 @@ After preprocessing, the dataset was reduced to only essential features:
 
 We trained two machine learning models:
 1. Linear Regression
-- Mean Absolute Error (MAE): ₹19,515.22
-- Root Mean Squared Error (RMSE): ₹28,810.69
+- Mean Absolute Error (MAE): $19,515.22
+- Root Mean Squared Error (RMSE): $28,810.69
 - R² Score: 0.83
 ![LinearRegression](images/LinearRegression.png)
 
 2. Random Forest Regressor
-- Mean Absolute Error (MAE): ₹14,065.32
-- Root Mean Squared Error (RMSE): ₹21,272.72
+- Mean Absolute Error (MAE): $14,065.32
+- Root Mean Squared Error (RMSE): $21,272.72
 - R² Score: 0.91
 ![Randomforestregressor](images/Randomforestregressor.png)
 
