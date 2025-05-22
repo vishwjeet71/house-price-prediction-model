@@ -86,5 +86,5 @@ input_data = np.array([[mszoning, neighborhood, garage_cars, total_usable_area,
 # Prediction
 if st.button("Predict House Price"):
     prediction = model.predict(input_data)[0]
-    st.success(f"🏡 Estimated House Price: ₹{int(prediction):,}")
+    st.success(f"🏡 Estimated House Price: ${int(prediction):,}")
 
